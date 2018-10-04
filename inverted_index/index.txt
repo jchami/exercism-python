@@ -1,0 +1,10 @@
+cas: 1,1 2,4 3,3
+qu: 2,2 3,2
+mor: 2,1 3,1
+engrac: 1,1
+tet: 1,1
+nad: 1,1
+comig: 3,2
+am: 3,1
+faç: 3,1
+favor: 3,1
