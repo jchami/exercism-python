@@ -1,2 +1,2 @@
-# exercism-python
-Exercism Python exercise track
+# Python Projects
+Python implementations for assorted toy problems
